@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Commission for Discoveries as it passed under the great seal of England.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35078</idno>
+            <idno type="STC">Wing C7048</idno>
+            <idno type="STC">ESTC R27136</idno>
+            <idno type="EEBO-CITATION">09674025</idno>
+            <idno type="OCLC">ocm 09674025</idno>
+            <idno type="VID">43947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1328:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Commission for Discoveries as it passed under the great seal of England.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Commission for Satisfying Claims on Sequestered Estates.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43947:1"/>
+            <p>THE COMMISSION FOR DISCOVERIES: As it paſſed under <hi>THE GREAT SEAL</hi> OF ENGLAND.</p>
+            <figure>
+               <figDesc>seal or coat of arms showing the cross of St George on one side and a harp on the other</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb</hi> dwelling in Thames-ſtreet, over againſt Baynards Caſtle, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43947:2"/>
+            <pb facs="tcp:43947:2"/>
+            <p>
+               <hi>OLIVER,</hi> Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Do<g ref="char:EOLhyphen"/>minions thereto belonging, To Our Truſty and Welbeloved <hi>Ralph Hall, Peter Elliſton</hi> of <hi>Grays Inn,</hi> in our County of <hi>Middleſex, John Grif<g ref="char:EOLhyphen"/>fith, Edward Carey, John Wilsby, William Bridges,</hi> and <hi>Na<g ref="char:EOLhyphen"/>thanael Stirrup,</hi> Eſquires; <hi>Greeting.</hi>
+            </p>
+            <p>Whereas, We have been informed, That ſeveral Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Goods, Chattels, Moneys, Plate, and Jewels, and other things to a very great value, belonging unto Us, in Right of the Com<g ref="char:EOLhyphen"/>mon weal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, are by Fraud, Colluſion, or otherwiſe, unjuſtly concealed or detained, to the prejudice of the State, and great Diminution of the Publick Revenue;</p>
+            <p>Whereupon ſeverall perſons wel-affected to the Common<g ref="char:EOLhyphen"/>wealth, and to Our Sevice, are able, ready, and willing, to diſcover divers and ſundry Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Goods, and Chattels, Moneys, Plate, and Jewels, and other things ſo belonging un<g ref="char:EOLhyphen"/>to Us (not pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>doned) and unjuſtly concealed, or detained as aforeſaid; if ſome more ſpeedy and leſſe chargeable way, and courſe, then by Bills or Informations in Our Court of Exche<g ref="char:EOLhyphen"/>quer, were found out and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rected, for proving and making good ſuch the r Diſcoveries, and they aſſured to receive ſome competent Reward and Recompence, for their ſervice, pains, and charges therein.</p>
+            <p>And We being willing, that ſuch Perſons may receive all due, and fitting encouragement in a work and ſervice, ſo ad<g ref="char:EOLhyphen"/>van<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agious to the Commonwealth, and that they or others, whom it may concern (except onely ſuch perſons as ſhall prove very obſtinate and refractory) may not be troubled with long and chargable Sutes, upon Bills or Informations to be exhibited in Our ſaid Court of Exchequer, for diſcovering ſuch Manors, Lands, Tenements, Rents and other the premiſſes belonging unto us (not pardoned) unjuſtly concealed or de<g ref="char:EOLhyphen"/>tained
+<pb n="4" facs="tcp:43947:3"/> as aforeſaid: But that the ſame may more ſpeedily be ſeiſed into Our Hands, and duly charged in the great Roll of of the Pipe, in Our ſaid Exchequer; Know ye therefore, That We for the better effecting of this Our Service, have nominated, conſtituted and appointed, and by theſe preſents do nominate, conſtitute, and appoint you the ſaid <hi>Ralph Hall, Peter Elliſton, John Griffith, Edward Carey, John Wilsby, William Bridges,</hi> and <hi>Nath. Stirrup,</hi> to be our Commiſſioners.</p>
+            <p>And We do by theſe preſents, impower, authoriſe, and appoint you, or any four or more of you, to receive for, and on Our behalf, all ſuch Informations as ſhall by any perſon or perſons, be exhibited before you, touching or any way concerning any Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Moneys, Plate, Jewels, Goods, Chattels, or other things ſo belonging unto Us (and not par<g ref="char:EOLhyphen"/>doned) which are unjuſtly concealed or detained as aforeſaid; and by all ſuch good and lawful ways and means as to you, or any four or more of you ſhall ſeem meet; to ſend for any Perſons, Parties, Witneſſes, Records, Accompts, Books and Writings whatſoever.</p>
+            <p>Provided always, and Our Will and Pleaſure is, That be<g ref="char:EOLhyphen"/>fore any perſon or perſons ſhall be moleſted or ſummoned upon any ſuch Information or Informations, the perſon or perſons ſo informing, ſhall give ſuch good Security with Sureties, as by you, Our ſaid Commiſſioners, or any four or more of you, ſhall be allowed and approved of, to prove and make good ſuch, his or their Information or Informations, or elſe to pay ſuch reaſonable Coſts and Damages unto the party or parties, ſo moleſted or ſummoned, as you Our ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any four or more of you, ſhall award.</p>
+            <p>And if upon any ſuch Information, Examination and En<g ref="char:EOLhyphen"/>quiry, and full hearing of the Parties concerned, and mature conſiderati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n had of the whole matter, it ſhall appear unto you, Our ſaid Commiſſioners, or any four or more of you, That any ſuch Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Moneys, Goods, Chattels, Pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Jewels, or other things, ſo belonging unto Us, in Right of the Com<g ref="char:EOLhyphen"/>monwealth,
+<pb n="5" facs="tcp:43947:3"/> (and not heretofore pardoned) are unjuſtly con<g ref="char:EOLhyphen"/>cealed or detained as aforeſaid; then Our Will and Pleaſure is, That you Our ſaid Commiſſioners, or any four or more of you, ſhall forthwith from time to time, under your Hands and Seals, certifie all ſuch Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Moneys, Goods, Chattels, Plate, Jewels, and other things ſo diſcovered, together with the whole matter touching ſuch D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcovery o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcoveries, un<g ref="char:EOLhyphen"/>to Our Commiſſioners of Our Treaſury, for the time being; to the end. The ſaid Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſioners of Our Treaſury, may forthwith cauſe the premiſſes by Proces out of Our ſaid Court of Exchequer, to be duly ſeiſed into Our Hands, and to that purpoſe put in charge in the great Roll, of the Pipe there.</p>
+            <p>And that this Our preſent Commiſsion may be the better, and more eff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctually executed, and with leſs charge and ex<g ref="char:EOLhyphen"/>pence unto the perſons ſo diſcovering, without delay, Our further Will and Pleaſure is, That there be a Regiſter attend<g ref="char:EOLhyphen"/>ing you Our ſaid Commiſsioners in this Our Service: And We conceiving Our welbeloved <hi>Ferdinando Parkhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> Gen<g ref="char:EOLhyphen"/>tleman, to be a fit perſon for that purpoſe, have nominated, conſtituted, and appointed; and by theſe preſents do nomi<g ref="char:EOLhyphen"/>nate, conſt tute, and appoint him the ſaid <hi>Fe dinando Parkhurſt,</hi> to be Regiſter to you Our ſaid Commiſsioners for this Service.</p>
+            <p>And We do likewiſe by theſe preſents, conſtitute, and ap<g ref="char:EOLhyphen"/>point, Our welbeloved <hi>Richard Hatter,</hi> Gentleman, to be Aſsiſtant unto the ſaid <hi>Ferdinando Parkhurſt,</hi> in the ſaid buſi<g ref="char:EOLhyphen"/>neſs and employment; who ſhall have and receive ſuch com<g ref="char:EOLhyphen"/>petent yearly Sallaries and Allowances, as We ſhall think fit to allow and appoint unto them, the ſame to be paid unto them, and either of them reſpectively at the Receipt of Our Exchequer quarterly, by even portions; ſo long as they, and either of them ſhall continue in the employment aforeſaid And therefore We Will, and do hereby Declare Our Plea<g ref="char:EOLhyphen"/>ſure to be, That they the ſaid <hi>Ferdinando Parkhurſt</hi> and <hi>Ri<g ref="char:EOLhyphen"/>chard Hatter,</hi> or either of them, ſhall not take any other Fee or Fees, of any perſon or perſons, ſo informing as aforeſaid, or of any other perſon or perſons whatſoever, Except onely
+<pb facs="tcp:43947:4"/> ſuch ſmal Fees for writing, as by you, Our ſaid Commiſsioners, or any four or more of you, ſhall be limitted and appointed.</p>
+            <p>And We Will, and by theſe preſents do require you Our ſaid Commiſsioners, That you or any four or more of you ſhall meet upon Monday, the Six and twentieth day of <hi>May</hi> inſtant, next enſuing the date hereof, by nine of the Clock in the Morning, at <hi>Worceſter-houſe</hi> in the <hi>Strand,</hi> in Our Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex</hi> in ſome convenient Room there, to be ap<g ref="char:EOLhyphen"/>pointed for that purpoſe, then and there, to enter upon the Execution of this Our Commiſſion; and ſo to proceed there<g ref="char:EOLhyphen"/>in, and to ſit from day to day, or at leaſt three days in every week, for the ſpace of one whole year, from the date of this Our preſent Commiſſion, or till We ſhall ſignifie Our Plea<g ref="char:EOLhyphen"/>ſure to the contrary.</p>
+            <p>And to the end, that ample Encouragement, Reward, and Recompence maybe given unto all ſuch perſons, as have made or ſhall hereafter make any Diſcovery of any ſuch Manors, L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds, Tenements, Rents, Moneys, Plate, Jewels, or other the premiſſes ſo belonging to Us, and not pardoned, but con<g ref="char:EOLhyphen"/>cealed, or detained as aforeſaid. We do by theſe preſents De<g ref="char:EOLhyphen"/>clare Our further Will and Pleaſure to be, and do hereby with the Advice and Conſent of Our Council, Grant, That all and every perſon and perſons, who before the Commiſsi<g ref="char:EOLhyphen"/>oners of, and for Our Treaſury, have already diſcovered, or upon any Information or Informations to be exhibited be<g ref="char:EOLhyphen"/>fore you Our ſaid Commiſſioners herein before named, or any four or more of you, ſhall diſcover, or upon any Bill or Infor<g ref="char:EOLhyphen"/>mation, exhibited or to be exh bited in Our ſaid Court of Exchequer, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath or have diſcovered, or ſhall hereafter diſcover any ſuch M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nors, Lands, Tenements, Moneys, Plate, Jewels, or other the premiſſes ſo belonging to Us, and not pardoned, but unjuſtly concealed or de<g ref="char:EOLhyphen"/>tained as aforeſaid: And the reſpective Heirs, Executor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Admini<g ref="char:EOLhyphen"/>ſtrators, and Aſſigns, of all and every ſuch perſon and perſons ſo diſ<g ref="char:EOLhyphen"/>covering, ſhall from time to time, and at all times, have and enjoy to their own uſe and behoof, one full fifth part, or ſo much more as the ſaid Commiſſioners of Our Treaſury, for the time being, ſhall think fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to allow, of all annual and other ſum and ſums of Money, which ſhall be paid into the Receipt of Our Exchequer, upon any ſuch Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="7" facs="tcp:43947:4"/>
+            <p>And if any perſon or perſons being ſeiſed or poſſeſſed of any ſuch Manors, Lands, Rents, Moneys, Plate, Jewels, Goods or Chattels, or owing any ſuch Arrears of Rents, Debts and Duties, ſo belonging un<g ref="char:EOLhyphen"/>to Us, and not pardoned, but unjuſtly concealed or detained as afore<g ref="char:EOLhyphen"/>ſaid, ſhall voluntarily firſt diſcover the ſame unto the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners of Our Treaſury, for the time being, before any ſuch Diſcovery thereof made as aforeſaid, and ſhall ſubmit unto ſuch Orders and Directions as ſhall by the Commiſſioners of Our Treaſury be given; for the more ſpeedy ſeiſing into Our Hands, and due charging in the great Roll of the Pipe aforeſaid, all ſuch Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Goods and Chattels, ſo vo<g ref="char:EOLhyphen"/>luntarily diſcovered as aforeſaid, then, and in ſuch caſe onely, We Will, That ſuch perſon or perſons ſo voluntarily diſcovering, and his, her, and their reſpective Heirs, Executors, Adminſtrators and Aſ<g ref="char:EOLhyphen"/>ſignes, ſhall from time to time, and at all times, have and enjoy to their own uſe and behoof, one full fift part, or ſo much more as the Commiſſioners of Our Treaſury ſhall think fit to allow, of all an<g ref="char:EOLhyphen"/>nual or other ſum or ſums of money, which ſhall be paid into the Receipt of Our Exchequer, upon ſuch voluntary Diſcovery or Diſ<g ref="char:EOLhyphen"/>coveries of any ſuch Manors, Lands, Tenements, Goods, Chattels, or other the premiſſes; and ſhall likewiſe have allowance, deduction, de<g ref="char:EOLhyphen"/>falcation, and retainer to him, her, or themſelves, of one full fift part, or of ſo much more, as the Commiſſioners of Our Treaſury ſhall think fit to allow of all ſuch Arrears of Rents; Debts, Du<g ref="char:EOLhyphen"/>ties, ſums of Money, Plate and Jewels, ſo voluntarily diſcovered, to be in his, her, or their poſſeſſion, or by him, her, or them, owing, concealed, or detained as aforeſaid: And ſuch perſon and perſons ſo voluntarily diſcovering as aforeſaid, ſhall likewiſe have Our Free and Gracious Pardon, for ſuch his, her, and their former concealments thereof.</p>
+            <p>And Our further Will and Pleaſure is, and We do hereby Declare the ſame to be, That if any perſon or perſons, having compounded, and having any Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Moneys, Plate, Jewels, Goods or Chattels, omitted out of his, her, or their Compoſition or Compoſitions, not pardoned, but unjuſtly concealed or detained as aforeſaid, or being now under Sequeſtration for Delinquency or Recuſancy, and having any Manors Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Moneys Plate, Jewels Goods or Chattels, not ſequeſtred, nor pardoned, but concealed or detained as aforeſaid, or being compriſed in any Act for ſale; and having any Copihold or Cuſtomary Land, or Arrears of Rents; Debts; Duties, Goods or Chattels, not ſequeſtred nor pardon<g ref="char:EOLhyphen"/>ed,
+<pb facs="tcp:43947:5" rendition="simple:additions"/> but concealed, or detained as aforeſaid; do and ſhall, before any ſuch Diſcovery thereof made as aforeſaid, Petition the Commiſſion<g ref="char:EOLhyphen"/>ers of Our Treaſury, for the time being; to be admitted to compound for the ſame; then We do hereby Will and Authoriſe the ſaid Com<g ref="char:EOLhyphen"/>miſſioners of our Treaſury, that in ſuch caſe, They compound with ſuch perſon or perſons ſo Petitioning, after the rate of one fourth part of the value of ſuch Manors, Lands, Tenements, Rents, Arrears of Rents, Debts, Duties, Moneys, Goods and Chattels, reſpectively. And further, We do by theſe preſents, Declare and Grant, by and with the Advice and Conſent of Our Council, That all and every per<g ref="char:EOLhyphen"/>ſon and perſons who ſhall ſo Compound as aforeſaid, and after ſub<g ref="char:EOLhyphen"/>mit unto ſuch Orders and Directions, as by the ſaid Commiſſioners of Our Treaſury ſhall be given for duly charging ſuch ſum or ſums of money, as ſhall be due and owing upon ſuch Compoſition or Com<g ref="char:EOLhyphen"/>poſitions in the great Roll of the Pipe, and ſhall duly pay the ſame into the Receipt of Our ſaid Exchequer; and the Heirs, Executors, Adminiſtrators and Aſſignes of ſuch perſon and perſons, ſo com<g ref="char:EOLhyphen"/>pounding, ſubmitting, and paying, ſhall and may peaceably hold and enjoy all ſuch Manors, Land, Tenements, Rents, Arrears of Rents, Debts, Duties, Goods and Chattels, ſo compounded for, free and clear of, and from any Seiſure, Sequeſtration, or Moleſtation whatſoever, any thing in this our preſent Commiſſion, or otherwiſe to the contrary notwithſtanding.</p>
+            <p>And to the end, that ſuch competent Sallaries as aforeſaid, to be allowed to the Regiſter, and his Aſſiſtant, before in theſe preſents named; as alſo the fifths and other ſums of Money before mention<g ref="char:EOLhyphen"/>ed, may be duly paid, and the Allowances, Defalcations and Compo<g ref="char:EOLhyphen"/>ſitions aforeſaid made, according to the tenor and true meaning of this Our Commiſſion, We have by Our Letters of Privy Seal, bear<g ref="char:EOLhyphen"/>ing even date with theſe preſents, given full Warrant and Authority in that behalf, to the ſaid Commiſſioners of, and for Our Treaſury to allow and pay the ſame accordingly.</p>
+            <p>And the better to enable you Our ſaid Commiſſioners, to carry on the Service aforeſaid with effect, We do by theſe preſents Impower and Authoriſe you, or any four or more of you, in all Caſes, Matters, and things touching and concerning the Premiſſes, to examine Wit<g ref="char:EOLhyphen"/>neſſes upon Oath, or otherwiſe: Which Oath, We do hereby Au<g ref="char:EOLhyphen"/>thoriſe you, or any four or more of you to adminiſter.</p>
+            <p>And laſtly, We Will and Require you, Our ſaid Commiſſioners to obſerve and purſue ſuch Rules and Inſtructions concerning the Ma<g ref="char:EOLhyphen"/>nagement of our ſaid Service, as you ſhall from time to time, and at all times hereafter, receive from U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by and with the Advice of Our Council.</p>
+            <closer>
+               <signed>In Witneſs whereof &amp;c</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
